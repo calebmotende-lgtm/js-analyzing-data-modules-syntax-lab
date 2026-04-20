@@ -25,7 +25,6 @@ function combineUsers(...args) {
 }
 
 // Export for the test suite
-module.exports = combineUsers;
 
 
 module.exports = {
